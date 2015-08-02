@@ -6,9 +6,8 @@
 
 using System.Collections.Generic;
 using NUnit.Framework;
-using Ullet.PD.Generic;
 
-namespace Ullet.PD.Tests.Unit.Generic
+namespace Ullet.PD.Generic.Tests.Unit
 {
   [TestFixture]
   public class DefaultDictionaryTests

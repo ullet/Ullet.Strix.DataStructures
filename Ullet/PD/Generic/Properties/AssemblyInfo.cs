@@ -7,7 +7,7 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Ullet.PD")]
+[assembly: AssemblyTitle("Ullet.PD.Generic")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
@@ -18,7 +18,7 @@ using System.Runtime.InteropServices;
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("74d3c0b9-d1b5-4c1c-833a-c9fd57b827ae")]
+[assembly: Guid("62a8edbe-4ffd-42eb-bc5b-59c08d1b00a2")]
 
 [assembly: AssemblyVersion("0.0.0.0")]
 [assembly: AssemblyFileVersion("0.0.0.0")]

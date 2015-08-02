@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
 
-namespace Ullet.PD.Tests.Unit
+namespace Ullet.PD.Sort.Tests.Unit
 {
   [TestFixture]
   public class CustomComparerTests
@@ -19,20 +19,6 @@ namespace Ullet.PD.Tests.Unit
     {
       Assert.Throws<ArgumentNullException>(
          () => CustomComparer.Create<object>(null));
-    }
-
-    [Test]
-    public void CanCreateWithStaticMethod()
-    {
-      Assert.That(CustomComparer.Create<object>((x, y) => 0), Is.Not.Null);
-    }
-
-    [Test]
-    public void CanCreateWithExtensionMethod()
-    {
-      Assert.That(
-        (new Func<dynamic, dynamic, int>((x, y) => 0)).ToComparer(),
-        Is.Not.Null);
     }
 
     [TestCase(-1)]
