@@ -4,11 +4,11 @@
  * UNLICENSE file accompanying this source code.
  */
 
-using System;
-using System.Collections.Generic;
-
-namespace Ullet.PD.Sort
+namespace Ullet.Strix.Sort
 {
+  using System;
+  using System.Collections.Generic;
+
   /// <summary>
   /// Wraps a function delegate in a <see cref="IComparer{T}"/> instance to
   /// allow any compare function with correct signature to be used wherever an

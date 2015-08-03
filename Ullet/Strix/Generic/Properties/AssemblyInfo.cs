@@ -7,11 +7,11 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Ullet.PD.Generic")]
+[assembly: AssemblyTitle("Ullet.Strix.Generic")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ullet.PD")]
+[assembly: AssemblyProduct("Ullet.Strix")]
 [assembly: AssemblyCopyright("Released to the Public Domain")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

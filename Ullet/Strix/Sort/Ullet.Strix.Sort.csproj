@@ -7,8 +7,8 @@
     <ProjectGuid>{2B17960B-88AC-479A-9C39-17F2E4FB48D0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ullet.PD.Sort</RootNamespace>
-    <AssemblyName>Ullet.PD.Sort</AssemblyName>
+    <RootNamespace>Ullet.Strix.Sort</RootNamespace>
+    <AssemblyName>Ullet.Strix.Sort</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

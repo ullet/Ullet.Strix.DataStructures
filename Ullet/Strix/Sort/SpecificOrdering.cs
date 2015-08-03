@@ -4,12 +4,12 @@
  * UNLICENSE file accompanying this source code.
  */
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace Ullet.PD.Sort
+namespace Ullet.Strix.Sort
 {
+  using System;
+  using System.Collections.Generic;
+  using System.Linq;
+
   /// <summary>
   /// Implementation of <see cref="IComparer{T}"/> that preferentially compares
   /// objects using the ordering specified in the constructor.

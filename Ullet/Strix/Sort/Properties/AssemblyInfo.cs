@@ -7,18 +7,18 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Ullet.PD.Sort.Tests.Unit")]
+[assembly: AssemblyTitle("Ullet.Strix.Sort")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ullet.PD")]
+[assembly: AssemblyProduct("Ullet.Strix")]
 [assembly: AssemblyCopyright("Released to the Public Domain")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("d54b66a7-624a-4bea-8490-d77fb6cdfae7")]
+[assembly: Guid("7e8581b4-5168-4b9f-a04c-d3cfe235ea53")]
 
 [assembly: AssemblyVersion("0.0.0.0")]
 [assembly: AssemblyFileVersion("0.0.0.0")]

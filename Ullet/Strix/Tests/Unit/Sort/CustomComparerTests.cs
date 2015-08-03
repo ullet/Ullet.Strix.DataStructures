@@ -4,13 +4,13 @@
  * UNLICENSE file accompanying this source code.
  */
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using NUnit.Framework;
-
-namespace Ullet.PD.Sort.Tests.Unit
+namespace Ullet.Strix.Sort.Tests.Unit
 {
+  using System;
+  using System.Collections.Generic;
+  using System.Linq;
+  using NUnit.Framework;
+
   [TestFixture]
   public class CustomComparerTests
   {

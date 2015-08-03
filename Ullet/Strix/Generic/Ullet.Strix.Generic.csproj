@@ -7,8 +7,8 @@
     <ProjectGuid>{63CF2D66-9C38-4D0F-B626-CF5D54DB7610}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ullet.PD.Generic</RootNamespace>
-    <AssemblyName>Ullet.PD.Generic</AssemblyName>
+    <RootNamespace>Ullet.Strix.Generic</RootNamespace>
+    <AssemblyName>Ullet.Strix.Generic</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

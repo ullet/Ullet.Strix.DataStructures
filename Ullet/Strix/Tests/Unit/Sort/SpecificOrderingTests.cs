@@ -4,11 +4,11 @@
  * UNLICENSE file accompanying this source code.
  */
 
-using System.Collections.Generic;
-using NUnit.Framework;
-
-namespace Ullet.PD.Sort.Tests.Unit
+namespace Ullet.Strix.Sort.Tests.Unit
 {
+  using System.Collections.Generic;
+  using NUnit.Framework;
+
   [TestFixture]
   public class SpecificOrderingTests
   {

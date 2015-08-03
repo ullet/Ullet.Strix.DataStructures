@@ -4,11 +4,11 @@
  * UNLICENSE file accompanying this source code.
  */
 
-using System.Collections;
-using System.Collections.Generic;
-
-namespace Ullet.PD.Generic
+namespace Ullet.Strix.Generic
 {
+  using System.Collections;
+  using System.Collections.Generic;
+
   /// <summary>
   /// Dictionary of keys and values returning a default value when key not
   /// found.
