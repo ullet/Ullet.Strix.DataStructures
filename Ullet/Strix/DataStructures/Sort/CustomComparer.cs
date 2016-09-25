@@ -1,10 +1,10 @@
 ﻿/*
- * Written by Trevor Barnett, <mr.ullet@gmail.com>, 2015
+ * Written by Trevor Barnett, <mr.ullet@gmail.com>, 2015, 2016
  * Released to the Public Domain.  See http://unlicense.org/ or the
  * UNLICENSE file accompanying this source code.
  */
 
-namespace Ullet.Strix.Sort
+namespace Ullet.Strix.DataStructures.Sort
 {
   using System;
   using System.Collections.Generic;

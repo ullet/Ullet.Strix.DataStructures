@@ -7,8 +7,8 @@
     <ProjectGuid>{F0735966-9A35-4C24-B59C-571E4F4AA173}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ullet.Strix.Generic.Tests.Unit</RootNamespace>
-    <AssemblyName>Ullet.Strix.Generic.Tests.Unit</AssemblyName>
+    <RootNamespace>Ullet.Strix.DataStructures.Generic.Tests.Unit</RootNamespace>
+    <AssemblyName>Ullet.Strix.DataStructures.Generic.Tests.Unit</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,24 +31,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="nunit.framework, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DefaultDictionaryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Generic\Ullet.Strix.Generic.csproj">
+    <ProjectReference Include="..\..\..\Generic\Ullet.Strix.DataStructures.Generic.csproj">
       <Project>{63cf2d66-9c38-4d0f-b626-cf5d54db7610}</Project>
-      <Name>Ullet.Strix.Generic</Name>
+      <Name>Ullet.Strix.DataStructures.Generic</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

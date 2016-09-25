@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_SolutionItems", "_Solution
 		UNLICENSE = UNLICENSE
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.Generic", "Ullet\Strix\Generic\Ullet.Strix.Generic.csproj", "{63CF2D66-9C38-4D0F-B626-CF5D54DB7610}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.DataStructures.Generic", "Ullet\Strix\DataStructures\Generic\Ullet.Strix.DataStructures.Generic.csproj", "{63CF2D66-9C38-4D0F-B626-CF5D54DB7610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.Sort", "Ullet\Strix\Sort\Ullet.Strix.Sort.csproj", "{2B17960B-88AC-479A-9C39-17F2E4FB48D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.DataStructures.Sort", "Ullet\Strix\DataStructures\Sort\Ullet.Strix.DataStructures.Sort.csproj", "{2B17960B-88AC-479A-9C39-17F2E4FB48D0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{63B2335E-537F-4DA9-B34F-895F92041850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.Generic.Tests.Unit", "Ullet\Strix\Tests\Unit\Generic\Ullet.Strix.Generic.Tests.Unit.csproj", "{F0735966-9A35-4C24-B59C-571E4F4AA173}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.DataStructures.Generic.Tests.Unit", "Ullet\Strix\DataStructures\Tests\Unit\Generic\Ullet.Strix.DataStructures.Generic.Tests.Unit.csproj", "{F0735966-9A35-4C24-B59C-571E4F4AA173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.Sort.Tests.Unit", "Ullet\Strix\Tests\Unit\Sort\Ullet.Strix.Sort.Tests.Unit.csproj", "{A1C7EDC4-BBAF-495C-9EB0-BF67F30D27EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ullet.Strix.DataStructures.Sort.Tests.Unit", "Ullet\Strix\DataStructures\Tests\Unit\Sort\Ullet.Strix.DataStructures.Sort.Tests.Unit.csproj", "{A1C7EDC4-BBAF-495C-9EB0-BF67F30D27EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
